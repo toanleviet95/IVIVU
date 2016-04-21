@@ -1,0 +1,7 @@
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb

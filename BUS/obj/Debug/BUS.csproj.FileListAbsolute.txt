@@ -1,0 +1,9 @@
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\DAO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\DTO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Debug\DTO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb

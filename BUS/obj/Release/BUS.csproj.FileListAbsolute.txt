@@ -1,0 +1,18 @@
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\BUS.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\BUS.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DAO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DTO.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DAO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DTO.pdb
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.dll
+C:\Users\TOAN LV\Downloads\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.pdb
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\BUS.dll
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\BUS.pdb
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DAO.dll
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DTO.dll
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DAO.pdb
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\bin\Release\DTO.pdb
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.dll
+D:\16_1312096_1312544_1312551_1312604\Do An Ung Dung\QuanLyKhachSan\BUS\obj\Release\BUS.pdb
